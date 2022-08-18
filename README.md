@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![typing_cat](https://user-images.githubusercontent.com/60635152/185391568-f173f81c-0581-4c3c-8a9a-ea8996121e47.gif)
+
 <!--
 **alexrok21/alexrok21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
